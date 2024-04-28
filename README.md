@@ -1,7 +1,6 @@
 # Домашнее задание к лекции 4 «Объекты»
 
 ## Решения
-### Задание 1
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/123e42e51abae9fd57681cf6ad6b5caf30f31540/2.functions/task.js">task.js</a> - код с реализованными функциями.
 
 <a href="https://github.com/Nephedov/bjs-2-homeworks/tree/d5fbc772f610da29c541de9f8def3ce529ddde55/4.objects">Репозиторий</a> с заданием и тестами.
