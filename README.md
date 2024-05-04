@@ -1,16 +1,16 @@
 # Домашнее задание к лекции 4 «Объекты»
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/123e42e51abae9fd57681cf6ad6b5caf30f31540/2.functions/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/4.objects/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/d5fbc772f610da29c541de9f8def3ce529ddde55/4.objects">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/d5fbc772f610da29c541de9f8def3ce529ddde55/4.objects/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/4.objects">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/4.objects/index.html">index.html</a>.
 
 ## Что было сделано
 * Реализована функция конструктор, для создания объектов (студентов).
-* Реализовны методы взаимодействия с экземплярами класса:
- * Добавление новых полей, с передаваемым значением через аргумент, при вызове метода.
- * Вычисление среднего арифметического значения одного из свойств экземпляра класса.
+* Реализованы методы взаимодействия с экземплярами класса:
+    * Добавление новых полей, с передаваемым значением через аргумент, при вызове метода.
+    * Вычисление среднего арифметического значения одного из свойств экземпляра класса.
 * Решение задания опубликовано в GithubPages.
 
 ### Задача 1. Инкапсуляция студента
